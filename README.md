@@ -1,5 +1,5 @@
 # react-navigation-stackNav
-StackNavigation使用练习 <br>
+<strong> StackNavigation使用练习</strong> <br>
 npm install <br>
 npm start   <br>
 react-native run-ios
